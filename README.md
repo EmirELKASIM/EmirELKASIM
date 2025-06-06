@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <a href="[amirsy005@gmail.com](https://mail.google.com/mail/u/0/#inbox)" target="_blank">
+  <a href="[amirsy005@gmail.com]" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/emir-amirof-b8228b288/" target="_blank">
